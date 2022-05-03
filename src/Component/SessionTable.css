@@ -1,0 +1,22 @@
+Table thead {
+  background-color: rgb(66, 65, 65);
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+  padding: 4px;
+}
+Table tbody {
+  text-align: center;
+  color: grey;
+  font-weight: 500;
+}
+td{
+    max-width: 70px;
+}
+Table .green {
+  color: green;
+}
+Table .red {
+  color: red;
+}

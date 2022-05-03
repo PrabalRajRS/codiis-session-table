@@ -1,0 +1,12 @@
+.App {
+  padding: 0;
+}
+h1 {
+  text-align: center;
+  padding: 10px;
+  color: rgb(66, 65, 65);
+}
+.filter {
+  text-align: right;
+  padding-bottom: 2rem;
+}
